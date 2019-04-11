@@ -1,11 +1,11 @@
 # java-swings-with-php-mysql-xampp
 Based on online shopping simple interface using JAVA Swings and PHP Mysql XAMPP
 # Demo step by step:
-<img src="demo/1.JPG" width="100">
-<img src="demo/2.JPG" width="100">
-<img src="demo/3.JPG" width="100">
-<img src="demo/4.JPG" width="100">
-<img src="demo/5.JPG" width="100">
+<img src="demo/1.JPG" width="180">
+<img src="demo/2.JPG" width="180">
+<img src="demo/3.JPG" width="180">
+<img src="demo/4.JPG" width="180">
+<img src="demo/5.JPG" width="180">
 
 
 # Database structure (Create Exact same tables with sturctures) :
